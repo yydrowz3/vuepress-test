@@ -1,12 +1,12 @@
 
 
-a simple static page generated with **vuepress**
+This is a simple static page generated with **vuepress**. 
 
-page randing is provided by *vercel.app*
+(page randing is provided by *vercel.app*)
 
-preview URL:
+preview URL: [preview](vuepress-test-six.vercel.app)
 
-[preview](vuepress-test-six.vercel.app)
+---
 
 homepage
 ![homepage](./pic/page0.png)
